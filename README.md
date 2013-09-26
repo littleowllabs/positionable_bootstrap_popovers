@@ -1,5 +1,5 @@
-Positionable Bootsrtrap Popover
-===============================
+Positionable Bootstrap Popover
+==============================
 
 Allows a popover to be located in a fixed position for a number of elements, with only the arrow at the top moving to point at the target element.
 
